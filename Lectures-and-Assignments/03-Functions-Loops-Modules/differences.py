@@ -8,7 +8,7 @@ def for_diff(f,x=0,h=.1):
     0.0
     
     >>> for_diff(lambda x : 5*x)
-    5
+    5.0
     '''
     deriv=(f(x+h)-f(x))/h
     return deriv
