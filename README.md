@@ -1,31 +1,44 @@
 # Math1376
 
-## Tentative schedule
+## Tentative schedule for 8 week course
 
 ### Module 01: Jupyter, bio, and some basic TeX
-- Lecture notebook 01: week 01
+- 01-Jupyter-lecture: Week 1, Tuesday
+- 01-Jupyter-activities: Week 1, Wednesday
 
 ### Module 02: Python Basics
-- Lecture notebooks 02-a and 02-b: week 02
-- Assignment 02-a: week 03
-- Lecture notebooks 02-c and 02-d: week 04
-- Assignment 02-b: week 05
+- 02-Python-basics-lecture-part-a: Week 1, Thursday
+- 02-part-a-activities: Week 1, Friday
+- 02-Python-basics-lecture-part-b: Week 2, Monday
+- 02-part-b-activities: Week 2, Tuesday
+- 02-HW-part-a: Week 2, Wednesday
+- 02-Python-basics-lecture-part-c: Week 2, Thursday
+- 02-part-c-activities: Week 2, Friday
+- 02-Python-basics-lecture-part-d: Week 3, Monday
+- 02-part-d-activities: Week 3, Tuesday
+- 02-HW-part-b: Week 3, Wednesday
 
 ### Module 03: Functions, Loops, and Modules
-- Lecture notebooks 03-a: week 06
-- Lecture notebooks 03-b and 03-c: week 07
-- Assignment 03: week 08
+- 03-Functions-loops-modules-lecture-part-a: Week 3, Thursday
+- 03-part-a-activities: Week 3, Friday
+- 03-Functions-loops-modules-lecture-part-b: Week 4, Monday
+- 03-part-b-activities: Week 4, Tuesday
+- 03-Functions-loops-modules-lecture-part-c: Week 4, Wednesday
+- 03-part-c-activities: Week 4, Thursday
+- 03-Functions-loops-modules-assignment: Week 4, Friday
 
 ### Module 04: Computational Applications
-- Lecture notebook 04-a: week 09
-- Lecture notebook 04-b: week 10
-- Assignment 04: 11
+- 04-Computational-applications-lecture-part-a: Week 5, Tuesday
+- 04-part-a-activities: Week 5, Wednesday
+- 04-Computational-applications-lecture-part-b: Week 5, Friday
+- 04-part-b-activities: Week 6, Monday
+- 04-Computational-applications-assignment: Week 6, Wednesday
 
 ### Module 05: Web-scraping and I/O
-- Lecture notebook 05: week 12
-- Assignment 05: week 13
+- 05-Web-scraping-and-IO-lecture: Week 6, Friday
+- 05-Web-scraping-and-IO-assignment: Week 7, Wednesday
 
 ### Module 06: Basics of machine learning
-- Lecture notebook 06-prologue: week 14
-- Lecture notebook 06-a: week 15
-- Assignment 06: week 16 (finals week)
+- 06-Machine-learning-lecture-prologue: Week 7, Friday
+- 06-Machine-learning-lecture-part-a: Week 8, Wednesday
+- 06-Machine-learning-assignment-for-part-a: Week 8, Friday
