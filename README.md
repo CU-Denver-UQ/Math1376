@@ -1,4 +1,4 @@
-# Math1376
+# Math1376: Programming for Data Science
 
 ## Tentative schedule for 8 week course
 
