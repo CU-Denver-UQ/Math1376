@@ -44,7 +44,7 @@
 
 ### Module 06: Basics of machine learning (2 weeks)
 - 06-Machine-learning-lecture-prologue: Week 15: Friday
-- 06-Machine-learning-lecture-part-a and activity: Week 16, Friday
+- 06-Machine-learning-lecture-part-a and homework: Week 16, Friday
 
 ---
 ## Tentative schedule for 8 week course
