@@ -30,8 +30,8 @@
 - 03-Functions-loops-modules-assignment: Week 10, Tuesday
 
 ### Module 04: Computational Applications (3.5 weeks)
-- 04-Computational-applications-prologue: Week 10, Thursday
-- 04-Computational-applications-prologue-activities: Week 11, Tuesday
+- 04-Computational-applications-lecture-prologue: Week 10, Thursday
+- 04-prologue-activities: Week 11, Tuesday
 - 04-Computational-applications-lecture-part-a: Week 11, Thursday
 - 04-part-a-activities: Week 12, Tuesday
 - 04-Computational-applications-lecture-part-b: Week 12, Thursday
@@ -43,8 +43,8 @@
 - 05-Web-scraping-and-IO-assignment: Week 15, Monday
 
 ### Module 06: Basics of machine learning (2 weeks)
-- 06-Machine-learning-lecture-part-a: Week 15, Friday
-- 06-Machine-learning-assignment-for-part-a: Week 16, Friday
+- 06-Machine-learning-lecture-prologue: Week 15: Friday
+- 06-Machine-learning-lecture-part-a and activity: Week 16, Friday
 
 ---
 ## Tentative schedule for 8 week course
