@@ -40,7 +40,7 @@
 
 ### Module 05: Web-scraping and I/O (1 week)
 - 05-Web-scraping-and-IO-lecture: Week 14, Tuesday
-- 05-Web-scraping-and-IO-assignment: Week 14, Friday
+- 05-Web-scraping-and-IO-assignment: Week 15, Monday
 
 ### Module 06: Basics of machine learning (2 weeks)
 - 06-Machine-learning-lecture-part-a: Week 15, Friday
