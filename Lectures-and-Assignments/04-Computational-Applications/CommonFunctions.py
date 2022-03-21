@@ -51,7 +51,7 @@ class Polynomial(FunctionTemplate):
     
     Methods
     -------
-    eval(x)
+    evaluate(x)
         Returns the function values at points x.
     '''
     def __init__(self, coeffs):
